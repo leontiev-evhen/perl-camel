@@ -1,0 +1,41 @@
+*{
+    font-family: Arial;  
+    padding:0;
+    margin: 0;
+}
+
+
+body{
+    padding-top:50px;
+}
+
+.starter-template{
+    padding: 40px 50px;
+}
+
+.centrl{
+    text-align: center;
+}
+
+.block{  
+    opacity:0.5;
+    color:white;
+    font-weight:bold;
+    height: 15%;
+    font-size: 7pt;
+    margin: 0;
+}
+
+
+footer{
+    position:absolute;
+    bottom: 25px;
+    width:100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content{
+   margin-top:50px; 
+   
+    }
